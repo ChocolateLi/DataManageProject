@@ -16,7 +16,7 @@ api文件夹是后端项目，web文件夹是前端项目<br>
 
 项目界面：
 
-![](D:\github\DataManageProject\img\简单的界面管理.png)
+![](https://github.com/ChocolateLi/DataManageProject/blob/main/img/%E7%AE%80%E5%8D%95%E7%9A%84%E7%95%8C%E9%9D%A2%E7%AE%A1%E7%90%86.png)
 
 # 项目启动
 
@@ -32,7 +32,7 @@ win + R，输入cmd命令，进入终端，切换到 web 文件夹目录下，�
 
 如果启动过程中出现以下错误：
 
-![](D:\github\DataManageProject\img\MODULE_NOT_FOUND.png)
+![](https://github.com/ChocolateLi/DataManageProject/blob/main/img/MODULE_NOT_FOUND.png)
 
 则把 web 目录下的 node_modules 文件夹删除，然后使用`pnpm install`命令进行重新安装。
 
