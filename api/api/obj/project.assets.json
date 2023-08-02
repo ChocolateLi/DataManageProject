@@ -7540,11 +7540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study\\课件+源码\\code\\api\\api\\api.csproj",
+      "projectUniqueName": "D:\\github\\DataManageProject\\api\\api\\api.csproj",
       "projectName": "api",
-      "projectPath": "D:\\Study\\课件+源码\\code\\api\\api\\api.csproj",
+      "projectPath": "D:\\github\\DataManageProject\\api\\api\\api.csproj",
       "packagesPath": "C:\\Users\\95435\\.nuget\\packages\\",
-      "outputPath": "D:\\Study\\课件+源码\\code\\api\\api\\obj\\",
+      "outputPath": "D:\\github\\DataManageProject\\api\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\95435\\AppData\\Roaming\\NuGet\\NuGet.Config",
